@@ -1,4 +1,5 @@
 #include <stdio.h>
+//for 2nd
 int addNumbers(int n);
 int main() {
     int num;
